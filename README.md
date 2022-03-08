@@ -4,13 +4,13 @@
 
 
 - Pesquisar
-![](/frontend-test-github/readme/list.png)
+![](/readme/list.png)
 - Commits
-![](/frontend-test-github/readme/commits.png)
+![](/readme/commits.png)
 - Issues
-![](/frontend-test-github/readme/issues.png)
+![](/readme/issues.png)
 - Pull Requests
-![](/frontend-test-github/readme/pulls.png)
+![](/readme/pulls.png)
 
 ### E6 FEATURES
   * Promisses -> utilizado o método Promisse.all([]) a fim de realizar múltiplas requesições à API de forma mais performática, uma vez que cada requisição fica em um item do array.
